@@ -42,7 +42,7 @@
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/0965e456-c717-475f-b47a-87a9ef525c04)
+![image](https://github.com/user-attachments/assets/68f41013-16a0-4d7d-97d6-509a444b2a5d)
 
 
 
